@@ -114,3 +114,4 @@ For Streamlit Cloud:
 ## Notes
 
 This project intentionally goes beyond a basic TF-IDF demo. TF-IDF similarity is one feature inside a broader ATS scoring engine that also evaluates skills, experience, education, recommendations, analytics, and hiring reports.
+# xtenhire-ai
